@@ -1,0 +1,30 @@
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../../Images/RegisterImg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+
+.RegisterForm {
+    background-color: rgba(255, 255, 255, 0.679);
+}
+
+.register-center {
+    margin: 3em auto;
+}
+/* .sideImg{
+ background-image: url('../../Images/RegisterImg.jpg');
+ background-size: contain;
+ background-repeat: no-repeat;
+ background-position: center;
+ width: 20%;
+
+} */

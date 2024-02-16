@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(208, 208, 208, 0.679);
+}
+.swal-progress-color {
+    --swal-progress-color: #4caf50; /* Change this to your desired progress bar color */
+    --swal-progress-height: 10px; /* Optional: Adjust the progress bar height */
+    color: #4caf50;
+
+  }
+
+/* .dashBoardPage {
+    margin: 3em auto;
+} */
